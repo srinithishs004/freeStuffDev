@@ -8,4 +8,4 @@ snippet: >-
   artificial general intelligence benefits all of humanity.
 tags: ["AI"]
 ---
-Start experimenting with $18 in free credit that can be used during your first 3 months.
+Start experimenting with $18 in free credit that can be used during your first 3 months .
